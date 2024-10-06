@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @notmossyiguana
+- 👀 I’m interested in coding Minecraft plugins and mods
+- 😄 Pronouns: they/them
+- 🐱 My favorite animal is a cat :)
